@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "usefulthings",
+		"name": "Useful Things",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"description": "Random things ",
+		"url": "https://u-team.info",
+		"authorList": [
+			"Luc_ZZ",
+			"HyCraftHD"
+		],
+		"credits": "Team U-Team",
+		"logoFile": "assets/usefulthings/logo.png"
+	}
+]
